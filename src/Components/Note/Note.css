@@ -1,0 +1,36 @@
+.noteDiv{
+    width: 20rem;
+    height: 3.5rem;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 20px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.scores{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+.note{
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+img{
+    width: 1rem;
+
+}
+.nameNote{
+    font-weight: 500;
+    font-size: 1.3rem;
+}
+.scoreNote{
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+.percentNote{
+    color: #9E9E9E;
+    font-size: 1.3rem;
+    font-weight: 600;
+}

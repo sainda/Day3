@@ -1,0 +1,55 @@
+.bigDiv{
+    background-color: rgb(78 70 227);
+    width: 20rem;
+    height: 29rem;
+    border-radius: 20px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.result{
+    border-radius: 360px;
+    background-color: rgb(74 28 209);
+    height: 10rem;
+    width: 10rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 0;
+}
+h3{
+    font-size: 1.6rem;
+    font-weight: 500;
+    color: #adacd1;
+}
+.score{
+    font-size: 4rem;
+    font-weight: 700;
+    margin-bottom: 0;
+    margin-top: 0.2rem;
+}
+.percent{
+    margin-top:0;
+    font-weight: 500;
+    font-size: 1.1rem;
+    color: rgb(184 183 231 / 70%);
+}
+.great{
+    font-weight: 500;
+    font-size: 2.1rem;
+    margin-bottom: 0.2rem;
+    
+
+}
+.message{
+    text-align: center;
+    width: 14rem;
+    color: #adacd1;
+    font-size: 1rem;
+    font-weight: 500;
+
+}

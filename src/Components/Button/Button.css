@@ -1,0 +1,15 @@
+button{
+    width: 22rem;
+    height: 3.5rem;
+    border-radius: 35px;
+    border: none;
+    background-color: rgb(34, 50, 92);
+    color: #ffff;
+    font-size: 1rem;
+    font-weight: 600;
+    margin-top: 3rem;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(23, 35, 66);
+}
